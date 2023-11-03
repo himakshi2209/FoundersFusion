@@ -10,7 +10,7 @@ Founders Fusion is a dynamic platform that bridges the gap between innovative st
 - **Tech Stack**: Utilizes HTML, CSS, JavaScript, Python, and machine learning for functionality.
 - **User-Friendly**: Easy navigation and a seamless user experience for startups and investors.
 
-## Getting Started
+## Getting Started 
 
 1. Clone the repository.
 2. Set up your environment with the required dependencies.
